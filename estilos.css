@@ -1,0 +1,111 @@
+body {
+
+
+    background-color: black;
+
+}
+
+h1 {
+color:yellow;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+}
+
+
+#selector-container{
+    margin-left: 34.28rem;
+
+}
+#item-selector{
+
+    background-color: rgb(48, 29, 1);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: yellow;
+    border-radius: 0px;
+    height: 2.5rem;
+    border-style: none;
+    font-size: 1rem;
+    transition-duration: 0.5s;
+
+}
+
+#planets{
+background-color: rgb(48, 29, 1);
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+color: yellow;
+border-radius: 0px;
+height: 2.5rem;
+border-style: none;
+font-size: 1rem;
+transition-duration: 0.5s;
+}
+
+
+#planets:hover{
+    background-color:yellow;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:  rgb(48, 29, 1);
+    border-radius: 0px;
+    height: 2.5rem;
+    border-style: none;
+    font-size: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    transition-duration: 0.5s;
+    }
+
+
+#starships{
+    background-color: rgb(48, 29, 1);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+    color: yellow;
+    height: 2.5rem;
+    border-style: none;
+    transition-duration: 0.5s;
+    }
+
+
+
+    #starships:hover{
+        background-color:yellow;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 1rem;
+        color: rgb(48, 29, 1);
+        height: 2.5rem;
+        border-style: none;
+        transition-duration: 0.5s;
+        }
+    
+    #characters{
+        background-color: rgb(48, 29, 1);
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        color: yellow;
+        height: 2.5rem;
+        border-style: none;
+        font-size: 1rem;
+        transition-duration: 0.5s;
+        }
+
+        #characters:hover{
+            background-color:    yellow;
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            color:rgb(48, 29, 1)  ;
+            height: 2.5rem;
+            border-style: none;
+            font-size: 1rem;
+            transition-duration: 0.5s;
+            }
+
+
+    #contenedor_botones{
+    text-align: center;
+}
+
+#content{
+    color:  yellow;
+    margin-left: 34.1rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 0 0 15px rgb(156, 154, 2);
+    height: 18rem;
+    width: 23rem;
+}
